@@ -7,4 +7,4 @@
 - 💬 Ask me about Everything 
 - 📫 How to reach me: xiaowangzi747@gmail.com
 - 😄 Pronouns: EFFICIENT
-- ⚡ Fun fact: Basketball
+- ⚡ Fun fact: Soccer, Basketball
