@@ -33,9 +33,8 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-- 🌱 I’m currently learning Deep Reinforcement Learning for Energy Management in Zero Energy Houses
-- 👯 I’m looking to collaborate on Building Technology
-- 🤔 I’m looking for help from people who are good at reinforcement learning
+- 🌱 I’m currently learning Deep Reinforcement Learning for Energy Management 
+- 🤔 I’m looking to collaborate on Building Technology
 - 💬 Ask me about everything
 - 😄 Pronouns: EFFICIENT
 - ⚡ Fun fact: Soccer, Basketball
