@@ -31,15 +31,15 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working at **Qingdao University of Technology**
-- 🌱 I’m currently learning **Deep Reinforcement Learning for Energy Management in Zero Energy Houses**
-- 🧠 My research interests include **HVAC-aware temporal graph learning, smart buildings, and building energy systems**
-- 👯 I’m looking to collaborate on **Building Technology, Energy Management, and Graph Learning for HVAC systems**
-- 🤔 I’m looking for help from people experienced in **reinforcement learning and intelligent building control**
-- 💬 Ask me about **building technology, HVAC data, temporal GNNs, and energy-efficient control**
-- 📫 How to reach me: **xiaowangzi747@gmail.com**
-- 😄 Pronouns: **EFFICIENT**
-- ⚡ Fun fact: **Soccer, Basketball**
+<img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
+- 🌱 I’m currently learning Deep Reinforcement Learning for Energy Management in Zero Energy Houses
+- 👯 I’m looking to collaborate on Building Technology
+- 🤔 I’m looking for help from people who are good at reinforcement learning
+- 💬 Ask me about everything
+- 📫 How to reach me: xiaowangzi747@gmail.com
+- 😄 Pronouns: EFFICIENT
+- ⚡ Fun fact: Soccer, Basketball
 
 ### 🛠️ Technologies and Tools I use
 
