@@ -38,13 +38,14 @@
 - 🤔 I’m looking for help from people experienced in **reinforcement learning and intelligent building control**
 - 💬 Ask me about **building technology, HVAC data, temporal GNNs, and energy-efficient control**
 - 📫 How to reach me: **xiaowangzi747@gmail.com**
+- 😄 Pronouns: **EFFICIENT**
+- ⚡ Fun fact: **Soccer, Basketball**
 
 ### 🛠️ Technologies and Tools I use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyG-3C2179?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
@@ -55,9 +56,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-- 😄 Pronouns: **EFFICIENT**
-- ⚡ Fun fact: **Soccer, Basketball**
 
 ### 🤝 Let's get connected
 
