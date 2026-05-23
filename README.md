@@ -37,7 +37,6 @@
 - 👯 I’m looking to collaborate on Building Technology
 - 🤔 I’m looking for help from people who are good at reinforcement learning
 - 💬 Ask me about everything
-- 📫 How to reach me: xiaowangzi747@gmail.com
 - 😄 Pronouns: EFFICIENT
 - ⚡ Fun fact: Soccer, Basketball
 
