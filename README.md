@@ -31,7 +31,16 @@
 
 ### Hi there 👋
 
-<img align="right" alt="Coding GIF" width="400" vspace="60" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<table align="right">
+  <tr>
+    <td height="40"></td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="Coding GIF" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 - 🌱 I’m currently learning Deep Reinforcement Learning for Energy Management 
 - 🤔 I’m looking to collaborate on Building Technology
